@@ -2,6 +2,8 @@
 
 Aula 01 - Comparação com Java
 
+https://youtu.be/9psi7yjSuF8
+
 Aula 02 - Programa Ola Mundo
 
 Aula 03 - Variáveis
