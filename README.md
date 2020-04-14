@@ -6,6 +6,8 @@ https://youtu.be/9psi7yjSuF8
 
 Aula 02 - Programa Ola Mundo
 
+https://youtu.be/xYgHpEojo_U
+
 Aula 03 - Variáveis
 
 Aula 04 - Funções
