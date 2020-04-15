@@ -14,6 +14,8 @@ https://youtu.be/nCrr8Z6Nwo0
 
 Aula 04 - Funções
 
+https://youtu.be/6hGwqVdpDHE
+
 Aula 05 - Condições
 
 Aula 06 - Repetição
