@@ -10,6 +10,8 @@ https://youtu.be/xYgHpEojo_U
 
 Aula 03 - Variáveis
 
+https://youtu.be/nCrr8Z6Nwo0
+
 Aula 04 - Funções
 
 Aula 05 - Condições
