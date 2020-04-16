@@ -20,6 +20,8 @@ Aula 05 - Condições
 
 Aula 06 - Repetição
 
+https://youtu.be/J43M3EN7gWk
+
 Aula 07 - Operador in
 
 Aula 08 - Exceções
