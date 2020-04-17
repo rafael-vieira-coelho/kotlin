@@ -26,6 +26,8 @@ Aula 07 - Operador in
 
 Aula 08 - Exceções
 
+https://youtu.be/_OYulrSs98k
+
 Aula 09 - Funcional
 
 Aula 10 - Coleções
