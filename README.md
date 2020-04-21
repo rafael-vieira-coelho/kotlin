@@ -31,3 +31,5 @@ https://youtu.be/_OYulrSs98k
 Aula 09 - Funcional
 
 Aula 10 - Coleções
+
+https://youtu.be/nFCE6SoiGt4
